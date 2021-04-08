@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qiaw99
 - 👀 I’m interested in Machine Learning, Deep Learning, Algorithm
-- 🌱 I’m currently learning Bachelor at Freie Universität Berlin
+- 🌱 I’m currently studying computer science Bachelor at Freie Universität Berlin
 - 📫 How to reach me qiaw99@zedat.fu-berlin.de
 
 <!---
