@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qiaw99
 - 👀 I’m interested in Machine Learning, Deep Learning, Algorithm
-- 🌱 I’m currently studying computer science Bachelor at Freie Universität Berlin
-- 📫 How to reach me qiaw99@zedat.fu-berlin.de
+- 🌱 I’m currently studying computer science Master at Technische Universität Berlin
+- 📫 How to reach me qianli.wang@campus.tu-berlin.de
 
 <!---
 qiaw99/qiaw99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
