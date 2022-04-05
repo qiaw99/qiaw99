@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qiaw99
-- 👀 I’m interested in Machine Learning, Deep Learning, Algorithm
-- 🌱 I’m currently studying computer science Master at Technische Universität Berlin
+- 👀 I’m interested in Machine Learning, Computer Vision, Algorithm and Software Developement
+- 🌱 I’m currently studying computer science(Master) at Technische Universität Berlin
 - 📫 How to reach me qianli.wang@campus.tu-berlin.de
 
 <!---
