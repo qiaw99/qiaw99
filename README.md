@@ -18,4 +18,4 @@ Twiteer: [@qiaw991](https://twitter.com/qiaw991)
 # GitHub Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qiaw99&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=qiaw99&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
