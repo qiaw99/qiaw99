@@ -12,9 +12,6 @@ Twiteer: [@qiaw991](https://twitter.com/qiaw991)
 # Commits
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaw99&show_icons=true&theme=tokyonight)
 
-# Programming Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaw99&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 # GitHub Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qiaw99&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
