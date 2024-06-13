@@ -8,7 +8,7 @@
 # 📚 Publication
 [CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems](https://arxiv.org/abs/2406.08101) (Wang et al., 2024)  
 <a align="center" href="https://github.com/DFKI-NLP/CoXQL">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=LLMCheckup&show_owner=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=CoXQL&show_owner=true"/>
 </a>
 
 [LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-explanations](https://arxiv.org/abs/2310.05592) (Wang et al., 2024) @ NAACL 2024 HCI+NLP  
