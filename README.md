@@ -6,7 +6,7 @@
 - ✨ B.Sc. in [Freie Universität Berlin](https://www.fu-berlin.de/) (2018-2021)
 
 # 📚 Publication
-[CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems](https://arxiv.org/abs/2406.08101) (Wang et al., 2024)  
+[CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems](https://arxiv.org/abs/2406.08101) (Wang et al., 2024) @ EMNLP 2024 Findings
 <a align="center" href="https://github.com/DFKI-NLP/CoXQL">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=CoXQL&show_owner=true"/>
 </a>
